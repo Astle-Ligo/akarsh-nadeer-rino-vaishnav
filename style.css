@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    color: white;
+}
+.box1{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    background-image: url(/pictures/cricket.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position:center;
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+}
+.box2{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    background-image: url(/pictures/xvj8ybwem2tmhzif623s.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:center;
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+}
+.box3{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    background-image: url(/pictures/keyboard.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:center;
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+}
+.box4{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    background-image: url(/pictures/cr7\(2\).jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position:center;
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+}
+.imagetext{
+    width: 100%;
+    height: 10rem;
+    backdrop-filter: blur(.5rem);
+}
